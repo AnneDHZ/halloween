@@ -155,7 +155,7 @@ img {
 
 .nav__close{
   position: absolute; 
-  top: 1rem; /* met l'icone en haut*/
+  top: 1rem; /* met l'icone en haut de la box*/
   right: 1.5rem;  /* met l'icone à droite*/
 }
 
